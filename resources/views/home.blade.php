@@ -78,7 +78,7 @@ button:hover {
         <p><strong>NIM:</strong>2257401046</p>
         <p><strong>Kelas:</strong>MI22B</p>
         <a href="/logout" class="btn">Logout</a>
-        <h3>Created By Edo Nuralimin</h3>
+        
     </section>
 </body>
 </html>
